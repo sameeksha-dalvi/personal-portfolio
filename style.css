@@ -18,6 +18,20 @@ body{
     gap: 20px;
 }
 
+.hero-nav{
+    width: 70%;
+    display: flex;
+    justify-content:space-around;
+    gap: 20px;
+    list-style: none;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #F1F5F9;
+}
+
 button{
     background-color:#177d71;
 }
